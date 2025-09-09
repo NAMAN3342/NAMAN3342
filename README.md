@@ -58,8 +58,17 @@ I love building tools, breaking systems to learn, and creating advanced IoT prot
 ### 📡 IoT & Hardware  
 - 📟 **WiFi + BLE Jammer** – Based on ESP32 with **dual NRF24L01** and OLED interface.  
 - 🔓 **Flipper Zero Alternative** – Low-cost M5StickC Plus 2 device supporting **RF replay, NFC cloning, HID attacks**.  
-- 📡 **Advanced RF & SDR Setup** – Using **HackRF, RTL-SDR, Yagi antennas** for signal intelligence.  
+- 📡 **Advanced RF & SDR Setup** – Using **RTL-SDR, Yagi antennas** for signal intelligence.  
 - 🛰️ **Smart IoT Prototypes** – From **bare-metal coding** to **AI-powered IoT automation**.  
+- ⚡ **HyperBrute (Offensive IoT Board)** –  
+  A custom-built **cybersecurity attack device** featuring:  
+  - 🚀 **Powerful WiFi + BLE Jamming** (dual ESP32 + external antennas)  
+  - 💳 **NFC Attack Modules** for card interactions  
+  - 📡 **IR Attack System** for remote exploits  
+  - 🔐 **Integrated Bruter Firmware** for password & key brute forcing  
+  - 🛠️ **Extra IoT Gadgets Integration** for offensive testing  
+  - 🔥 Designed as a **next-gen all-in-one hacking board**  
+  - *(Prototype image attached in repo)*
 
 ---
 
@@ -73,3 +82,12 @@ I love building tools, breaking systems to learn, and creating advanced IoT prot
 
 ## ✨ Motto  
 > "Hack, Learn, Build, Repeat."
+
+---
+
+<a href="https://ibb.co/MyNPmfxk">
+  <img src="https://i.ibb.co/kVcqtJs2/Whats-App-Image-2025-09-10-at-12-57-21-AM.jpg" 
+       alt="WhatsApp Image" width="400">
+</a>
+
+---
