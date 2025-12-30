@@ -76,12 +76,14 @@ I love building tools, breaking systems to learn, and creating advanced IoT prot
 - Building advanced **WiFi & RF IoT prototypes**  
 - Mastering **Offensive Security (CTFs, Exploits, Web Vulns)**  
 - Writing a **research paper** on IoT security  
-- Developing **AI-powered Cybersecurity Systems**  
+- Developing **AI-powered Cybersecurity Systems**
+- developing  advanced ai enabled biosensing products 
 
 ---
 
 ## ✨ Motto  
 > "Hack, Learn, Build, Repeat."
+>"build , build , and build".
 
 ---
 
